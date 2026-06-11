@@ -1,6 +1,4 @@
-
-
-  > [![https://chatgpt.com/s/m_68995d999cc88191aff6fa311cbafcf1](https://web4application.github.io/qubuhub-link-page/)](sandbox:/mnt/data/qubuhub_starter.zip?_chatgptios_conversationID=68995f28-c21c-8325-9de2-866b9d5e04d7&_chatgptios_messageID=e5b3d917-8eb8-4654-9fb1-f11c2e376916)
+> [![qubuhub.org](https://web4application.github.io/qubuhub-link-page/)](sandbox:/mnt/data/qubuhub_starter.zip?_chatgptios_conversationID=68995f28-c21c-8325-9de2-866b9d5e04d7&_chatgptios_messageID=e5b3d917-8eb8-4654-9fb1-f11c2e376916)
 > 
 ```bash
 /qubuhub-landing
@@ -19,7 +17,9 @@
  └── next.config.js
 ```
 
-> [![qubuhub-starter](https://web4application.github.io/qubuhub-link-page/)](sandbox:/mnt/data/qubuhub_starter.zip?_chatgptios_conversationID=68995f28-c21c-8325-9de2-866b9d5e04d7&_chatgptios_messageID=e5b3d917-8eb8-4654-9fb1-f11c2e376916)
+> [qubuhub-starter](https://web4application.github.io/qubuhub-link-page/sandbox:/mnt/data/qubuhub_starter.zip?_chatgptios_conversationID=68995f28-c21c-8325-9de2-866b9d5e04d7&_chatgptios_messageID=e5b3d917-8eb8-4654-9fb1-f11c2e376916)
+>
+> https://web4application.github.io/qubuhub-link-page/
 > 
 ```Bash
 npx create-next-app qubuhub-incs --use-npm
@@ -35,3 +35,5 @@ npm install react-tsparticles
 ```.env
 MORALIS_API_KEY=your_moralis_key_here
 ALCHEMY_API_KEY=your_alchemy_key_here
+
+https://web4application.github.io/qubuhub-link-page/
